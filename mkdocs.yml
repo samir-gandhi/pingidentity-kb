@@ -54,5 +54,6 @@ plugins:
 nav:
   - Welcome:
       - Home: "./README.md"     
+      - Contributing: "./CONTRIBUTING.md"
   - Blog:
       - How to Terraform: "./blog/how-to-terraform/README.md"

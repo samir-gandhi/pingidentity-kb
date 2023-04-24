@@ -1,7 +1,5 @@
-# Welcome to PingDeck!
+# Welcome to the Ping Identity Knowledge Base!
 
-The PingDeck tool enables you to tap into a repository of PingOne DaVinci code snippets, orchestration flows, packaged solutions, and components that have been curated by Ping Identity and the community.
+Welcome to a place where Ping SME's can freely share knowledge with whoever needs it!.
 
-To begin using PingDeck, navigate to [https://pingdeck.pingidentity.cloud](https://pingdeck.pingidentity.cloud).
-
-![Ping Deck](images/ping-deck-main.png)
+[Want to contribute?](./CONTRIBUTING.md)
