@@ -9,7 +9,7 @@ extra_css:
 theme:
   name: material
   custom_dir: docs/mkdocs/overrides
-  favicon: images/pingidentity-logo.png
+  favicon: images/favicon.png
 
   features:
     - navigation.tabs
