@@ -54,12 +54,5 @@ plugins:
 nav:
   - Welcome:
       - Home: "./README.md"     
-      - Recent Changes: "./changelog.md"
-      - Support Policy: "home/supportPolicy.md"
-      - License: "LICENSE.md"
-      - Disclaimer: "home/disclaimer.md"
-  - Contribute: 
-      - Contribute: "contribute/contribute.md"
-      - Exporting Snippets: "contribute/exporting-components.md"
-  - Flow Docs:
-      - User Registration: "flows/user-registration.md"
+  - Blog:
+      - How to Terraform: "./blog/how-to-terraform/README.md"
